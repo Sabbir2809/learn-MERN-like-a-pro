@@ -1,4 +1,4 @@
-### Server: Node.js1. 
+### ✅Server: Node.js
 1. History about why we needed node
 1. What is node (architecture)
 1. nstallation and verify
@@ -8,7 +8,7 @@
 
 ----
 
-### Node package manager
+### ✅Node package manager
 1. What and why
 1. Dissecting package.json
 1. Going into node_modules
@@ -16,7 +16,7 @@
 
 ----
 
-### Node built-in modules
+### ✅Node built-in modules
 1. os
 1. events
 1. fs
@@ -25,7 +25,7 @@
 
 ----
 
-### Server frameworks
+### ✅Server frameworks
 1. Comparison between server frameworks
 1. Hello world - Express
 1. Hello world - Koa
@@ -33,7 +33,7 @@
 
 ----
 
-### HTTP
+### ✅HTTP
 1. OSI Model
 1. How Internet works
 1. HTTP messages
@@ -47,7 +47,7 @@
 
 ----
 
-### MongoDB
+### ✅MongoDB
 1. RDBMS vs NOSQL
 1. Why MongoDB
 1. How it works
@@ -61,7 +61,7 @@
 
 ----
 
-### Express API CRUD
+### ✅Express API CRUD
 1. Setup Express application
 1. Setup routes
 1. Perform CRUD using POSTMAN
@@ -71,13 +71,13 @@
 
 ----
 
-### Testing
+### ✅Testing
 1. Unit test
 1. Integration test
 
 ----
 
-### Client Side: JavaScript
+### ✅Client Side: JavaScript
 1. Client side JavaScript
 1. How browsers work
 1. DOM rendering
@@ -86,7 +86,7 @@
 
 ----
 
-### React
+### ✅React.Js
 1. Why we needed react
 1. What is React
 1. How react works
@@ -94,20 +94,20 @@
 
 ----
 
-### Create react app
+### ✅Create react app
 1. Hello world
 1. What’s happening in here
 1. Create a calculator
 
 ----
 
-### Working with data
+### ✅Working with data
 1. Local state
 1. Passing data via props
 
 ----
 
-### React concepts
+### ✅React concepts
 1. Hooks
 1. Context
 1. Refs
@@ -115,7 +115,7 @@
 
 ----
 
-### React router dom
+### ✅React router dom
 1. Create routes and pages
 1. Create menu and page containers
 1. Hooks
@@ -124,7 +124,7 @@
 
 ----
 
-### Form and List
+### ✅Form and List
 1. Create a form from scratch
 1. Create form using react-hook-form
 1. Create a list page from scratch
@@ -135,7 +135,7 @@
 ----
 
 
-### Testing
+### ✅Testing
 1. Snapshot testing
 1. Storybook testing
 1. Unit testing (Jest)
@@ -143,7 +143,7 @@
 ----
 
 
-### MUI
+### ✅MUI
 1. Material UI
 1. Create pages
 1. Use templates
@@ -151,7 +151,7 @@
 ----
 
 
-### Real project: Inventory system
+### ✅Real project: Inventory system
 1. Project management
 1. Requirement analysis
 1. Architecture analysis
@@ -161,7 +161,7 @@
 ----
 
 
-### Phase 1: Architecture and User management
+### ✅Phase 1: Architecture and User management
 1. Architecture
 1. Create base architecture
 1. Create auth codes properly
@@ -171,7 +171,7 @@
 ----
 
 
-### Authentication
+### ✅Authentication
 1. JWT token
 1. Authentication in server
 1. Authenticationin client
@@ -179,27 +179,27 @@
 
 ----
 
-### Authorization
+### ✅Authorization
 1. Add middleware in server
 1. Add authorization mechanism in client
 
 ----
 
-### Phase 2: Feature implementation Modules
+### ✅Phase 2: Feature implementation Modules
 1. Product
 1. Customer
 1. Order
 
 ----
 
-### Reporting
+### ✅Reporting
 1. Add recharts
 1. Add cron
 1. Design dashboard
 
 ----
 
-### Deployment
+### ✅Deployment
 1. Aspects of deployment
 1. Deploy to virtual machine
 1. Deploy to digital ocean apps
@@ -207,6 +207,6 @@
 
 ----
 
-### Conclusion
+### ✅Conclusion
 1. What you should do next
 1. Connect with me
